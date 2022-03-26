@@ -1,0 +1,2 @@
+# Deep-Neural-Network-Techniques
+From the wide variety of Deep Neural Network techniques, I have orchestrated a project that deals with the following topics: Convolution Neural Network (CNN), Transfer Learning, Data Augmentation, and finally, Recurrent Neural Networks (RNN). Specifically, I have built a CNN to classify images on a dataset, then illustrated the power of using the pre-trained models such as VGG16 and ResNet. In addition, techniques in using that dataset with data augmentation and then using the RNNs to classify the dataset are present.
